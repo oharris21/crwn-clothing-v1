@@ -1,4 +1,4 @@
-#crwn-clothing
+# crwn-clothing
 
 crwn-clothing is a react app I made as I followed along with Udemy's Complete React Developer course on my journey to learning react.
 
